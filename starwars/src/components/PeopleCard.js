@@ -15,12 +15,14 @@ color: #198CFF;
 font-family:'Abel', sans-serif;
 font-size: 50px;
 text-shadow: 3px 2px red;
+border: 3px solid white;
+padding: 10px;
 
 `;
 
 const ColorH3 = styled.h3`
-color: #FEFEBE;
-text-shadow: 3px 2px black;
+color: black;
+text-shadow: 3px 2px #ED2939;
 
 `
 
